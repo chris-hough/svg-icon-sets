@@ -1,5 +1,5 @@
 html {
-  font-family: "Overpass", sans-serif;
+  font-family: Overpass, sans-serif;
 }
 
 body {
@@ -23,7 +23,6 @@ li:nth-child(1), li:nth-child(2) {
 }
 
 @media only screen and (min-width: 60em) {
-
 
   li:nth-child(1), li:nth-child(2) {
     border-bottom: none;
